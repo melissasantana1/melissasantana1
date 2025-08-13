@@ -13,7 +13,11 @@
 
 
 
+<h2 align="left"></h2>
+
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melissasantana1/melissasantana1/output/pacman-contribution-graph-dark.svg">
@@ -31,9 +35,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melissasantana1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=melissasantana1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="302" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melissasantana1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="left">Pórtifolio</h3>
 
 ###
 
@@ -51,21 +59,17 @@
 
 ###
 
-<h3 align="left">Pórtifolio</h3>
-
-###
-
 <div align="center">
   <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ0eGl6dTc2eWdlM282OHR2dHVtNGRzeHF0aXI0bmY2OTdvZ3lmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/keWdgl62zjk5Qg0wSe/giphy.gif"  />
 </div>
 
 ###
 
-<p align="left">🔥 Skills</p>
+<h2 align="left">🔥 Skills</h2>
 
 ###
 
-<p align="left">Programming Languages</p>
+<h4 align="left">Programming Languages</h4>
 
 ###
 
@@ -91,7 +95,7 @@
 
 ###
 
-<p align="left">Tools & Frameworks</p>
+<h4 align="left">Tools & Frameworks</h4>
 
 ###
 
@@ -113,7 +117,7 @@
 
 ###
 
-<p align="left">Libraries</p>
+<h4 align="left">Libraries</h4>
 
 ###
 
@@ -134,3 +138,8 @@
 </div>
 
 ###
+
+
+
+
+ 
