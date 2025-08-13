@@ -121,8 +121,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://www.spotify.com/pt-pt/account/overview/?theme=dark&spin=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
 
 ###
