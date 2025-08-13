@@ -5,9 +5,11 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Melissa! A passionate Full Stack Developer from Brazil.
+    Hi 👋, I'm Melissa! A passionate Full Stack Developer from Brazil.
 
-  - 🌱 I’m currently studying 
+   - 💻 Studying and practicing full-stack development
+   - 🌱 Learning modern technologies like React, Node.js, Next.js, and C#
+   - 🎯 Focus on creating responsive and efficient web applications
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day is to become a recognized solutions architect, leading the design and implementation of scalable and innovative systems, combining back-end excellence with high-impact front-end experiences, contributing to products that transform people's lives".
 </p>
